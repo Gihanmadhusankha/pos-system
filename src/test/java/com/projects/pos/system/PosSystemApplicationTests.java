@@ -1,4 +1,4 @@
-package com.rusiruchapana.pos.system;
+package com.projects.pos.system;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

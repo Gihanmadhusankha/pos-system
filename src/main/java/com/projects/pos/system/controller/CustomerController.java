@@ -7,6 +7,7 @@ import com.projects.pos.system.dto.response.CustomerNameResponseDTO;
 import com.projects.pos.system.dto.response.CustomerResponseDTO;
 import com.projects.pos.system.dto.response.CustomerSpecificDetailsResponseDTO;
 import com.projects.pos.system.service.CustomerService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
